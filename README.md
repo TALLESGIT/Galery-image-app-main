@@ -23,7 +23,7 @@ Styled Components 💅: Uma solução de CSS-in-JS para estilizar componentes Re
 API do Pexels 📸: Uma API que fornece acesso a imagens de alta qualidade.
 Iniciando 🚀 Para começar a usar o aplicativo, siga os seguintes passos:
 
-Clone o repositório usando git clone https://github.com/seu-username/galerie-image.git.
+Clone o repositório usando git clone https://github.com/TALLESGIT.
 Instale as dependências usando npm install ou yarn install.
 Inicie o aplicativo usando npm start ou yarn start.
 Abra o aplicativo em seu navegador web usando http://localhost:3000.
